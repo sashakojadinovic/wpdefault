@@ -4,7 +4,7 @@
  * @package LobbsterPlugin
  */
 
-namespace Lobbster;
+namespace Lobbster\Base;
 
 class Activation
 {

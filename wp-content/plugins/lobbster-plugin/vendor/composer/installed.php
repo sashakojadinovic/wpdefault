@@ -3,7 +3,7 @@
         'name' => 'lobbster/lobbster-plugin',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '8db496e07d5b5ba78bc7e2383fe794baa05ee97c',
+        'reference' => '5372a07ae763712c7d7b94f78c0260f740d0fb3d',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'lobbster/lobbster-plugin' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '8db496e07d5b5ba78bc7e2383fe794baa05ee97c',
+            'reference' => '5372a07ae763712c7d7b94f78c0260f740d0fb3d',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
