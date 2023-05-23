@@ -1,0 +1,17 @@
+{
+    "name": "lobbster/lobbster-plugin",
+    "description": "Awesom starter plugin example",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Saša Kojadinović",
+            "email": "sasa.kojadinovic@lobbster.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Lobbster\\": "./inc"}
+    }
+}
